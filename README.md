@@ -16,5 +16,5 @@ A Python bot that monitors Reddit comments and automatically replies to specific
 ## Installation 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/reddit-reply-bot.git
+   git clone https://github.com/Muhammad-Lukman/reddit-comment-bot.git
    cd reddit-reply-bot
